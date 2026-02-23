@@ -1,6 +1,11 @@
 # React Native Quiz App
 
-![Dashboard](Dashboard.png)
+<table>
+  <tr>
+    <td><img src="Dashboard.png" width="100%"></td>
+    <td><img src="Riwayat.png" width="100%"></td>
+  </tr>
+</table>
 
 ## Overview
 
